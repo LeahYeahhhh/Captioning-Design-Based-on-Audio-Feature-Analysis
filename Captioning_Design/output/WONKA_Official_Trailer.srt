@@ -1,0 +1,2380 @@
+1
+00:00:00,490 --> 00:00:00,610
+<u>I've</u> spent the past seven years traveling the world perfecting my craft.
+
+2
+00:00:00,610 --> 00:00:00,630
+I've spent the past seven years traveling the world perfecting my craft.
+
+3
+00:00:00,630 --> 00:00:00,770
+I've <u>spent</u> the past seven years traveling the world perfecting my craft.
+
+4
+00:00:00,770 --> 00:00:00,810
+I've spent the past seven years traveling the world perfecting my craft.
+
+5
+00:00:00,810 --> 00:00:00,870
+I've spent <u>the</u> past seven years traveling the world perfecting my craft.
+
+6
+00:00:00,870 --> 00:00:00,910
+I've spent the past seven years traveling the world perfecting my craft.
+
+7
+00:00:00,910 --> 00:00:01,130
+I've spent the <u>past</u> seven years traveling the world perfecting my craft.
+
+8
+00:00:01,130 --> 00:00:01,210
+I've spent the past seven years traveling the world perfecting my craft.
+
+9
+00:00:01,210 --> 00:00:01,471
+I've spent the past <u>seven</u> years traveling the world perfecting my craft.
+
+10
+00:00:01,471 --> 00:00:01,511
+I've spent the past seven years traveling the world perfecting my craft.
+
+11
+00:00:01,511 --> 00:00:01,811
+I've spent the past seven <u>years</u> traveling the world perfecting my craft.
+
+12
+00:00:01,811 --> 00:00:01,891
+I've spent the past seven years traveling the world perfecting my craft.
+
+13
+00:00:01,891 --> 00:00:02,251
+I've spent the past seven years <u>traveling</u> the world perfecting my craft.
+
+14
+00:00:02,251 --> 00:00:02,271
+I've spent the past seven years traveling the world perfecting my craft.
+
+15
+00:00:02,271 --> 00:00:02,331
+I've spent the past seven years traveling <u>the</u> world perfecting my craft.
+
+16
+00:00:02,331 --> 00:00:02,371
+I've spent the past seven years traveling the world perfecting my craft.
+
+17
+00:00:02,371 --> 00:00:02,591
+I've spent the past seven years traveling the <u>world</u> perfecting my craft.
+
+18
+00:00:02,591 --> 00:00:02,611
+I've spent the past seven years traveling the world perfecting my craft.
+
+19
+00:00:02,611 --> 00:00:03,011
+I've spent the past seven years traveling the world <u>perfecting</u> my craft.
+
+20
+00:00:03,011 --> 00:00:03,051
+I've spent the past seven years traveling the world perfecting my craft.
+
+21
+00:00:03,051 --> 00:00:03,151
+I've spent the past seven years traveling the world perfecting <u>my</u> craft.
+
+22
+00:00:03,151 --> 00:00:03,192
+I've spent the past seven years traveling the world perfecting my craft.
+
+23
+00:00:03,192 --> 00:00:03,532
+I've spent the past seven years traveling the world perfecting my <u>craft.</u>
+
+24
+00:00:05,473 --> 00:00:05,573
+<u>You</u> see, I'm something of a magician, inventor, and chocolate maker.
+
+25
+00:00:05,573 --> 00:00:05,613
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+26
+00:00:05,613 --> 00:00:05,753
+You <u>see,</u> I'm something of a magician, inventor, and chocolate maker.
+
+27
+00:00:05,753 --> 00:00:05,793
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+28
+00:00:05,793 --> 00:00:05,913
+You see, <u>I'm</u> something of a magician, inventor, and chocolate maker.
+
+29
+00:00:05,913 --> 00:00:05,973
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+30
+00:00:05,973 --> 00:00:06,273
+You see, I'm <u>something</u> of a magician, inventor, and chocolate maker.
+
+31
+00:00:06,273 --> 00:00:06,313
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+32
+00:00:06,313 --> 00:00:06,373
+You see, I'm something <u>of</u> a magician, inventor, and chocolate maker.
+
+33
+00:00:06,373 --> 00:00:06,413
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+34
+00:00:06,413 --> 00:00:06,433
+You see, I'm something of <u>a</u> magician, inventor, and chocolate maker.
+
+35
+00:00:06,433 --> 00:00:06,493
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+36
+00:00:06,493 --> 00:00:06,954
+You see, I'm something of a <u>magician,</u> inventor, and chocolate maker.
+
+37
+00:00:06,954 --> 00:00:07,174
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+38
+00:00:07,174 --> 00:00:07,634
+You see, I'm something of a magician, <u>inventor,</u> and chocolate maker.
+
+39
+00:00:07,634 --> 00:00:07,794
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+40
+00:00:07,794 --> 00:00:07,874
+You see, I'm something of a magician, inventor, <u>and</u> chocolate maker.
+
+41
+00:00:07,874 --> 00:00:07,914
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+42
+00:00:07,914 --> 00:00:08,294
+You see, I'm something of a magician, inventor, and <u>chocolate</u> maker.
+
+43
+00:00:08,294 --> 00:00:08,314
+You see, I'm something of a magician, inventor, and chocolate maker.
+
+44
+00:00:08,314 --> 00:00:08,594
+You see, I'm something of a magician, inventor, and chocolate <u>maker.</u>
+
+45
+00:00:09,055 --> 00:00:09,175
+<u>So</u> quiet up and listen down.
+
+46
+00:00:09,175 --> 00:00:09,255
+So quiet up and listen down.
+
+47
+00:00:09,255 --> 00:00:09,595
+So <u>quiet</u> up and listen down.
+
+48
+00:00:09,595 --> 00:00:09,695
+So quiet up and listen down.
+
+49
+00:00:09,695 --> 00:00:09,775
+So quiet <u>up</u> and listen down.
+
+50
+00:00:09,775 --> 00:00:10,075
+So quiet up and listen down.
+
+51
+00:00:10,075 --> 00:00:10,155
+So quiet up <u>and</u> listen down.
+
+52
+00:00:10,155 --> 00:00:10,195
+So quiet up and listen down.
+
+53
+00:00:10,195 --> 00:00:10,496
+So quiet up and <u>listen</u> down.
+
+54
+00:00:10,496 --> 00:00:10,516
+So quiet up and listen down.
+
+55
+00:00:10,516 --> 00:00:10,796
+So quiet up and listen <u>down.</u>
+
+56
+00:00:11,536 --> 00:00:11,716
+<u>Nope,</u> scratch that.
+
+57
+00:00:11,716 --> 00:00:12,036
+Nope, scratch that.
+
+58
+00:00:12,036 --> 00:00:12,357
+Nope, <u>scratch</u> that.
+
+59
+00:00:12,357 --> 00:00:12,377
+Nope, scratch that.
+
+60
+00:00:12,377 --> 00:00:12,557
+Nope, scratch <u>that.</u>
+
+61
+00:00:12,837 --> 00:00:13,157
+<u>Reverse</u> it.
+
+62
+00:00:13,157 --> 00:00:13,217
+Reverse it.
+
+63
+00:00:13,217 --> 00:00:13,337
+Reverse <u>it.</u>
+
+64
+00:00:14,998 --> 00:00:15,198
+<u>Mr.</u> Wonka, I can see you're a man of great ingenuity.
+
+65
+00:00:15,198 --> 00:00:15,218
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+66
+00:00:15,218 --> 00:00:15,458
+Mr. <u>Wonka,</u> I can see you're a man of great ingenuity.
+
+67
+00:00:15,458 --> 00:00:15,498
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+68
+00:00:15,498 --> 00:00:15,618
+Mr. Wonka, <u>I</u> can see you're a man of great ingenuity.
+
+69
+00:00:15,618 --> 00:00:15,638
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+70
+00:00:15,638 --> 00:00:15,778
+Mr. Wonka, I <u>can</u> see you're a man of great ingenuity.
+
+71
+00:00:15,778 --> 00:00:15,798
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+72
+00:00:15,798 --> 00:00:15,959
+Mr. Wonka, I can <u>see</u> you're a man of great ingenuity.
+
+73
+00:00:15,959 --> 00:00:15,979
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+74
+00:00:15,979 --> 00:00:16,139
+Mr. Wonka, I can see <u>you're</u> a man of great ingenuity.
+
+75
+00:00:16,139 --> 00:00:16,159
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+76
+00:00:16,159 --> 00:00:16,179
+Mr. Wonka, I can see you're <u>a</u> man of great ingenuity.
+
+77
+00:00:16,179 --> 00:00:16,199
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+78
+00:00:16,199 --> 00:00:16,339
+Mr. Wonka, I can see you're a <u>man</u> of great ingenuity.
+
+79
+00:00:16,339 --> 00:00:16,359
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+80
+00:00:16,359 --> 00:00:16,439
+Mr. Wonka, I can see you're a man <u>of</u> great ingenuity.
+
+81
+00:00:16,439 --> 00:00:16,459
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+82
+00:00:16,459 --> 00:00:16,699
+Mr. Wonka, I can see you're a man of <u>great</u> ingenuity.
+
+83
+00:00:16,699 --> 00:00:16,739
+Mr. Wonka, I can see you're a man of great ingenuity.
+
+84
+00:00:16,739 --> 00:00:17,379
+Mr. Wonka, I can see you're a man of great <u>ingenuity.</u>
+
+85
+00:00:17,639 --> 00:00:17,719
+<u>What</u> are you doing?
+
+86
+00:00:17,719 --> 00:00:17,739
+What are you doing?
+
+87
+00:00:17,739 --> 00:00:17,840
+What <u>are</u> you doing?
+
+88
+00:00:17,840 --> 00:00:17,860
+What are you doing?
+
+89
+00:00:17,860 --> 00:00:17,960
+What are <u>you</u> doing?
+
+90
+00:00:17,960 --> 00:00:18,000
+What are you doing?
+
+91
+00:00:18,000 --> 00:00:18,260
+What are you <u>doing?</u>
+
+92
+00:00:19,340 --> 00:00:19,480
+<u>I'm</u> making chocolate, of course.
+
+93
+00:00:19,480 --> 00:00:19,500
+I'm making chocolate, of course.
+
+94
+00:00:19,500 --> 00:00:19,741
+I'm <u>making</u> chocolate, of course.
+
+95
+00:00:19,741 --> 00:00:19,761
+I'm making chocolate, of course.
+
+96
+00:00:19,761 --> 00:00:20,101
+I'm making <u>chocolate,</u> of course.
+
+97
+00:00:20,101 --> 00:00:20,121
+I'm making chocolate, of course.
+
+98
+00:00:20,121 --> 00:00:20,181
+I'm making chocolate, <u>of</u> course.
+
+99
+00:00:20,181 --> 00:00:20,221
+I'm making chocolate, of course.
+
+100
+00:00:20,221 --> 00:00:20,461
+I'm making chocolate, of <u>course.</u>
+
+101
+00:00:20,681 --> 00:00:20,781
+<u>How</u> do you like it?
+
+102
+00:00:20,781 --> 00:00:20,801
+How do you like it?
+
+103
+00:00:20,801 --> 00:00:20,841
+How <u>do</u> you like it?
+
+104
+00:00:20,841 --> 00:00:20,881
+How do you like it?
+
+105
+00:00:20,881 --> 00:00:20,941
+How do <u>you</u> like it?
+
+106
+00:00:20,941 --> 00:00:20,961
+How do you like it?
+
+107
+00:00:20,961 --> 00:00:21,081
+How do you <u>like</u> it?
+
+108
+00:00:21,081 --> 00:00:21,101
+How do you like it?
+
+109
+00:00:21,101 --> 00:00:21,361
+How do you like <u>it?</u>
+
+110
+00:00:21,381 --> 00:00:21,622
+<u>Dark,</u> white, nutty, absolutely insane.
+
+111
+00:00:21,622 --> 00:00:21,822
+Dark, white, nutty, absolutely insane.
+
+112
+00:00:21,822 --> 00:00:22,062
+Dark, <u>white,</u> nutty, absolutely insane.
+
+113
+00:00:22,062 --> 00:00:22,242
+Dark, white, nutty, absolutely insane.
+
+114
+00:00:22,242 --> 00:00:22,542
+Dark, white, <u>nutty,</u> absolutely insane.
+
+115
+00:00:22,542 --> 00:00:22,862
+Dark, white, nutty, absolutely insane.
+
+116
+00:00:22,862 --> 00:00:23,323
+Dark, white, nutty, <u>absolutely</u> insane.
+
+117
+00:00:23,323 --> 00:00:23,343
+Dark, white, nutty, absolutely insane.
+
+118
+00:00:23,343 --> 00:00:23,663
+Dark, white, nutty, absolutely <u>insane.</u>
+
+119
+00:00:24,702 --> 00:00:24,942
+<u>Many</u> people have come here to sell chocolate.
+
+120
+00:00:24,942 --> 00:00:25,002
+Many people have come here to sell chocolate.
+
+121
+00:00:25,002 --> 00:00:25,383
+Many <u>people</u> have come here to sell chocolate.
+
+122
+00:00:25,383 --> 00:00:25,423
+Many people have come here to sell chocolate.
+
+123
+00:00:25,423 --> 00:00:25,543
+Many people <u>have</u> come here to sell chocolate.
+
+124
+00:00:25,543 --> 00:00:25,603
+Many people have come here to sell chocolate.
+
+125
+00:00:25,603 --> 00:00:25,823
+Many people have <u>come</u> here to sell chocolate.
+
+126
+00:00:25,823 --> 00:00:25,903
+Many people have come here to sell chocolate.
+
+127
+00:00:25,903 --> 00:00:26,163
+Many people have come <u>here</u> to sell chocolate.
+
+128
+00:00:26,163 --> 00:00:26,223
+Many people have come here to sell chocolate.
+
+129
+00:00:26,223 --> 00:00:26,323
+Many people have come here <u>to</u> sell chocolate.
+
+130
+00:00:26,323 --> 00:00:26,363
+Many people have come here to sell chocolate.
+
+131
+00:00:26,363 --> 00:00:26,664
+Many people have come here to <u>sell</u> chocolate.
+
+132
+00:00:26,664 --> 00:00:26,744
+Many people have come here to sell chocolate.
+
+133
+00:00:26,744 --> 00:00:27,304
+Many people have come here to sell <u>chocolate.</u>
+
+134
+00:00:27,604 --> 00:00:27,824
+<u>They've</u> all been crushed by the chocolate cartel.
+
+135
+00:00:27,824 --> 00:00:27,884
+They've all been crushed by the chocolate cartel.
+
+136
+00:00:27,884 --> 00:00:28,044
+They've <u>all</u> been crushed by the chocolate cartel.
+
+137
+00:00:28,044 --> 00:00:28,105
+They've all been crushed by the chocolate cartel.
+
+138
+00:00:28,105 --> 00:00:28,325
+They've all <u>been</u> crushed by the chocolate cartel.
+
+139
+00:00:28,325 --> 00:00:28,385
+They've all been crushed by the chocolate cartel.
+
+140
+00:00:28,385 --> 00:00:28,905
+They've all been <u>crushed</u> by the chocolate cartel.
+
+141
+00:00:28,905 --> 00:00:29,746
+They've all been crushed by the chocolate cartel.
+
+142
+00:00:29,746 --> 00:00:29,906
+They've all been crushed <u>by</u> the chocolate cartel.
+
+143
+00:00:29,906 --> 00:00:29,926
+They've all been crushed by the chocolate cartel.
+
+144
+00:00:29,926 --> 00:00:30,066
+They've all been crushed by <u>the</u> chocolate cartel.
+
+145
+00:00:30,066 --> 00:00:30,126
+They've all been crushed by the chocolate cartel.
+
+146
+00:00:30,126 --> 00:00:30,706
+They've all been crushed by the <u>chocolate</u> cartel.
+
+147
+00:00:30,706 --> 00:00:30,766
+They've all been crushed by the chocolate cartel.
+
+148
+00:00:30,766 --> 00:00:31,667
+They've all been crushed by the chocolate <u>cartel.</u>
+
+149
+00:00:32,147 --> 00:00:32,248
+<u>You</u> can't get a shop without selling chocolate.
+
+150
+00:00:32,248 --> 00:00:32,288
+You can't get a shop without selling chocolate.
+
+151
+00:00:32,288 --> 00:00:32,488
+You <u>can't</u> get a shop without selling chocolate.
+
+152
+00:00:32,488 --> 00:00:32,528
+You can't get a shop without selling chocolate.
+
+153
+00:00:32,528 --> 00:00:32,648
+You can't <u>get</u> a shop without selling chocolate.
+
+154
+00:00:32,648 --> 00:00:32,688
+You can't get a shop without selling chocolate.
+
+155
+00:00:32,688 --> 00:00:32,728
+You can't get <u>a</u> shop without selling chocolate.
+
+156
+00:00:32,728 --> 00:00:32,788
+You can't get a shop without selling chocolate.
+
+157
+00:00:32,788 --> 00:00:33,088
+You can't get a <u>shop</u> without selling chocolate.
+
+158
+00:00:33,088 --> 00:00:33,248
+You can't get a shop without selling chocolate.
+
+159
+00:00:33,248 --> 00:00:33,528
+You can't get a shop <u>without</u> selling chocolate.
+
+160
+00:00:33,528 --> 00:00:33,568
+You can't get a shop without selling chocolate.
+
+161
+00:00:33,568 --> 00:00:33,849
+You can't get a shop without <u>selling</u> chocolate.
+
+162
+00:00:33,849 --> 00:00:33,909
+You can't get a shop without selling chocolate.
+
+163
+00:00:33,909 --> 00:00:34,569
+You can't get a shop without selling <u>chocolate.</u>
+
+164
+00:00:35,070 --> 00:00:35,190
+<u>And</u> you can't sell chocolate without a shop.
+
+165
+00:00:35,190 --> 00:00:35,230
+And you can't sell chocolate without a shop.
+
+166
+00:00:35,230 --> 00:00:35,330
+And <u>you</u> can't sell chocolate without a shop.
+
+167
+00:00:35,330 --> 00:00:35,370
+And you can't sell chocolate without a shop.
+
+168
+00:00:35,370 --> 00:00:35,690
+And you <u>can't</u> sell chocolate without a shop.
+
+169
+00:00:35,690 --> 00:00:35,730
+And you can't sell chocolate without a shop.
+
+170
+00:00:35,730 --> 00:00:36,090
+And you can't <u>sell</u> chocolate without a shop.
+
+171
+00:00:36,090 --> 00:00:36,110
+And you can't sell chocolate without a shop.
+
+172
+00:00:36,110 --> 00:00:36,691
+And you can't sell <u>chocolate</u> without a shop.
+
+173
+00:00:36,691 --> 00:00:37,031
+And you can't sell chocolate without a shop.
+
+174
+00:00:37,031 --> 00:00:37,391
+And you can't sell chocolate <u>without</u> a shop.
+
+175
+00:00:37,391 --> 00:00:37,431
+And you can't sell chocolate without a shop.
+
+176
+00:00:37,431 --> 00:00:37,451
+And you can't sell chocolate without <u>a</u> shop.
+
+177
+00:00:37,451 --> 00:00:37,611
+And you can't sell chocolate without a shop.
+
+178
+00:00:37,611 --> 00:00:38,972
+And you can't sell chocolate without a <u>shop.</u>
+
+179
+00:00:40,634 --> 00:00:40,834
+<u>No</u> daydreaming.
+
+180
+00:00:40,834 --> 00:00:40,894
+No daydreaming.
+
+181
+00:00:40,894 --> 00:00:41,574
+No <u>daydreaming.</u>
+
+182
+00:00:41,654 --> 00:00:41,754
+<u>What</u> are we gonna do, Willy?
+
+183
+00:00:41,754 --> 00:00:41,774
+What are we gonna do, Willy?
+
+184
+00:00:41,774 --> 00:00:41,854
+What <u>are</u> we gonna do, Willy?
+
+185
+00:00:41,854 --> 00:00:41,874
+What are we gonna do, Willy?
+
+186
+00:00:41,874 --> 00:00:41,934
+What are <u>we</u> gonna do, Willy?
+
+187
+00:00:41,934 --> 00:00:41,954
+What are we gonna do, Willy?
+
+188
+00:00:41,954 --> 00:00:42,195
+What are we <u>gonna</u> do, Willy?
+
+189
+00:00:42,195 --> 00:00:42,235
+What are we gonna do, Willy?
+
+190
+00:00:42,235 --> 00:00:42,415
+What are we gonna <u>do,</u> Willy?
+
+191
+00:00:42,415 --> 00:00:42,475
+What are we gonna do, Willy?
+
+192
+00:00:42,475 --> 00:00:42,755
+What are we gonna do, <u>Willy?</u>
+
+193
+00:00:44,917 --> 00:00:45,177
+<u>Huh.</u>
+
+194
+00:00:46,057 --> 00:00:46,338
+<u>Huh?</u>
+
+195
+00:00:48,039 --> 00:00:48,339
+<u>Huh.</u>
+
+196
+00:00:49,200 --> 00:00:49,260
+<u>A</u> double huh?
+
+197
+00:00:49,260 --> 00:00:49,480
+A double huh?
+
+198
+00:00:49,480 --> 00:00:49,820
+A <u>double</u> huh?
+
+199
+00:00:49,820 --> 00:00:49,860
+A double huh?
+
+200
+00:00:49,860 --> 00:00:50,000
+A double <u>huh?</u>
+
+201
+00:00:50,020 --> 00:00:50,060
+<u>Do</u> you have a pencil and paper?
+
+202
+00:00:50,060 --> 00:00:50,080
+Do you have a pencil and paper?
+
+203
+00:00:50,080 --> 00:00:50,220
+Do <u>you</u> have a pencil and paper?
+
+204
+00:00:50,220 --> 00:00:50,240
+Do you have a pencil and paper?
+
+205
+00:00:50,240 --> 00:00:50,341
+Do you <u>have</u> a pencil and paper?
+
+206
+00:00:50,341 --> 00:00:50,381
+Do you have a pencil and paper?
+
+207
+00:00:50,381 --> 00:00:50,421
+Do you have <u>a</u> pencil and paper?
+
+208
+00:00:50,421 --> 00:00:50,461
+Do you have a pencil and paper?
+
+209
+00:00:50,461 --> 00:00:50,681
+Do you have a <u>pencil</u> and paper?
+
+210
+00:00:50,681 --> 00:00:50,701
+Do you have a pencil and paper?
+
+211
+00:00:50,701 --> 00:00:50,761
+Do you have a pencil <u>and</u> paper?
+
+212
+00:00:50,761 --> 00:00:50,781
+Do you have a pencil and paper?
+
+213
+00:00:50,781 --> 00:00:50,981
+Do you have a pencil and <u>paper?</u>
+
+214
+00:00:51,001 --> 00:00:51,521
+<u>Uh-huh.</u>
+
+215
+00:00:51,802 --> 00:00:51,822
+<u>I</u> got an idea.
+
+216
+00:00:51,822 --> 00:00:51,902
+I got an idea.
+
+217
+00:00:51,902 --> 00:00:51,962
+I <u>got</u> an idea.
+
+218
+00:00:51,962 --> 00:00:51,982
+I got an idea.
+
+219
+00:00:51,982 --> 00:00:52,042
+I got <u>an</u> idea.
+
+220
+00:00:52,042 --> 00:00:52,102
+I got an idea.
+
+221
+00:00:52,102 --> 00:00:52,282
+I got an <u>idea.</u>
+
+222
+00:00:54,294 --> 00:00:54,374
+<u>I</u> know things haven't been easy for you.
+
+223
+00:00:54,374 --> 00:00:54,394
+I know things haven't been easy for you.
+
+224
+00:00:54,394 --> 00:00:54,554
+I <u>know</u> things haven't been easy for you.
+
+225
+00:00:54,554 --> 00:00:54,574
+I know things haven't been easy for you.
+
+226
+00:00:54,574 --> 00:00:54,774
+I know <u>things</u> haven't been easy for you.
+
+227
+00:00:54,774 --> 00:00:54,814
+I know things haven't been easy for you.
+
+228
+00:00:54,814 --> 00:00:54,994
+I know things <u>haven't</u> been easy for you.
+
+229
+00:00:54,994 --> 00:00:55,014
+I know things haven't been easy for you.
+
+230
+00:00:55,014 --> 00:00:55,154
+I know things haven't <u>been</u> easy for you.
+
+231
+00:00:55,154 --> 00:00:55,254
+I know things haven't been easy for you.
+
+232
+00:00:55,254 --> 00:00:55,495
+I know things haven't been <u>easy</u> for you.
+
+233
+00:00:55,495 --> 00:00:55,535
+I know things haven't been easy for you.
+
+234
+00:00:55,535 --> 00:00:55,715
+I know things haven't been easy <u>for</u> you.
+
+235
+00:00:55,715 --> 00:00:55,735
+I know things haven't been easy for you.
+
+236
+00:00:55,735 --> 00:00:55,895
+I know things haven't been easy for <u>you.</u>
+
+237
+00:00:56,095 --> 00:00:56,235
+<u>They're</u> gonna get better.
+
+238
+00:00:56,235 --> 00:00:56,255
+They're gonna get better.
+
+239
+00:00:56,255 --> 00:00:56,375
+They're <u>gonna</u> get better.
+
+240
+00:00:56,375 --> 00:00:56,395
+They're gonna get better.
+
+241
+00:00:56,395 --> 00:00:56,475
+They're gonna <u>get</u> better.
+
+242
+00:00:56,475 --> 00:00:56,495
+They're gonna get better.
+
+243
+00:00:56,495 --> 00:00:56,755
+They're gonna get <u>better.</u>
+
+244
+00:00:56,995 --> 00:00:57,135
+<u>You</u> promise?
+
+245
+00:00:57,135 --> 00:00:57,155
+You promise?
+
+246
+00:00:57,155 --> 00:00:57,596
+You <u>promise?</u>
+
+247
+00:00:58,916 --> 00:00:58,996
+<u>I</u> pinky promise.
+
+248
+00:00:58,996 --> 00:00:59,016
+I pinky promise.
+
+249
+00:00:59,016 --> 00:00:59,296
+I <u>pinky</u> promise.
+
+250
+00:00:59,296 --> 00:00:59,336
+I pinky promise.
+
+251
+00:00:59,336 --> 00:00:59,736
+I pinky <u>promise.</u>
+
+252
+00:00:59,897 --> 00:01:00,077
+<u>That's</u> the most solemn vow there is.
+
+253
+00:01:00,077 --> 00:01:00,097
+That's the most solemn vow there is.
+
+254
+00:01:00,097 --> 00:01:00,177
+That's <u>the</u> most solemn vow there is.
+
+255
+00:01:00,177 --> 00:01:00,197
+That's the most solemn vow there is.
+
+256
+00:01:00,197 --> 00:01:00,357
+That's the <u>most</u> solemn vow there is.
+
+257
+00:01:00,357 --> 00:01:00,397
+That's the most solemn vow there is.
+
+258
+00:01:00,397 --> 00:01:00,737
+That's the most <u>solemn</u> vow there is.
+
+259
+00:01:00,737 --> 00:01:00,777
+That's the most solemn vow there is.
+
+260
+00:01:00,777 --> 00:01:01,017
+That's the most solemn <u>vow</u> there is.
+
+261
+00:01:01,017 --> 00:01:01,057
+That's the most solemn vow there is.
+
+262
+00:01:01,057 --> 00:01:01,197
+That's the most solemn vow <u>there</u> is.
+
+263
+00:01:01,197 --> 00:01:01,357
+That's the most solemn vow there is.
+
+264
+00:01:01,357 --> 00:01:01,477
+That's the most solemn vow there <u>is.</u>
+
+265
+00:01:01,877 --> 00:01:02,017
+<u>Where</u> do we start?
+
+266
+00:01:02,017 --> 00:01:02,037
+Where do we start?
+
+267
+00:01:02,037 --> 00:01:02,097
+Where <u>do</u> we start?
+
+268
+00:01:02,097 --> 00:01:02,138
+Where do we start?
+
+269
+00:01:02,138 --> 00:01:02,238
+Where do <u>we</u> start?
+
+270
+00:01:02,238 --> 00:01:02,258
+Where do we start?
+
+271
+00:01:02,258 --> 00:01:02,638
+Where do we <u>start?</u>
+
+272
+00:01:03,438 --> 00:01:03,498
+<u>A</u> good chocolate chip, Mr. Brooke.
+
+273
+00:01:03,498 --> 00:01:03,518
+A good chocolate chip, Mr. Brooke.
+
+274
+00:01:03,518 --> 00:01:03,738
+A <u>good</u> chocolate chip, Mr. Brooke.
+
+275
+00:01:03,738 --> 00:01:03,778
+A good chocolate chip, Mr. Brooke.
+
+276
+00:01:03,778 --> 00:01:04,138
+A good <u>chocolate</u> chip, Mr. Brooke.
+
+277
+00:01:04,138 --> 00:01:04,178
+A good chocolate chip, Mr. Brooke.
+
+278
+00:01:04,178 --> 00:01:04,318
+A good chocolate <u>chip,</u> Mr. Brooke.
+
+279
+00:01:04,318 --> 00:01:04,338
+A good chocolate chip, Mr. Brooke.
+
+280
+00:01:04,338 --> 00:01:04,439
+A good chocolate chip, <u>Mr.</u> Brooke.
+
+281
+00:01:04,439 --> 00:01:04,599
+A good chocolate chip, Mr. Brooke.
+
+282
+00:01:04,599 --> 00:01:04,799
+A good chocolate chip, Mr. <u>Brooke.</u>
+
+283
+00:01:04,939 --> 00:01:05,239
+<u>Where's</u> this?
+
+284
+00:01:05,239 --> 00:01:05,319
+Where's this?
+
+285
+00:01:05,319 --> 00:01:05,599
+Where's <u>this?</u>
+
+286
+00:01:05,859 --> 00:01:06,059
+<u>It's</u> just weird.
+
+287
+00:01:06,059 --> 00:01:06,199
+It's just weird.
+
+288
+00:01:06,199 --> 00:01:06,539
+It's <u>just</u> weird.
+
+289
+00:01:06,539 --> 00:01:06,780
+It's just weird.
+
+290
+00:01:06,780 --> 00:01:07,260
+It's just <u>weird.</u>
+
+291
+00:01:08,300 --> 00:01:08,420
+<u>What's</u> happening?
+
+292
+00:01:08,420 --> 00:01:08,460
+What's happening?
+
+293
+00:01:08,460 --> 00:01:08,780
+What's <u>happening?</u>
+
+294
+00:01:08,800 --> 00:01:08,860
+<u>Who</u> wants a chocolate that makes you fly?
+
+295
+00:01:08,860 --> 00:01:08,921
+Who wants a chocolate that makes you fly?
+
+296
+00:01:08,921 --> 00:01:09,381
+Who <u>wants</u> a chocolate that makes you fly?
+
+297
+00:01:09,381 --> 00:01:09,441
+Who wants a chocolate that makes you fly?
+
+298
+00:01:09,441 --> 00:01:09,501
+Who wants <u>a</u> chocolate that makes you fly?
+
+299
+00:01:09,501 --> 00:01:09,521
+Who wants a chocolate that makes you fly?
+
+300
+00:01:09,521 --> 00:01:09,861
+Who wants a <u>chocolate</u> that makes you fly?
+
+301
+00:01:09,861 --> 00:01:09,881
+Who wants a chocolate that makes you fly?
+
+302
+00:01:09,881 --> 00:01:09,981
+Who wants a chocolate <u>that</u> makes you fly?
+
+303
+00:01:09,981 --> 00:01:10,021
+Who wants a chocolate that makes you fly?
+
+304
+00:01:10,021 --> 00:01:10,181
+Who wants a chocolate that <u>makes</u> you fly?
+
+305
+00:01:10,181 --> 00:01:10,201
+Who wants a chocolate that makes you fly?
+
+306
+00:01:10,201 --> 00:01:10,301
+Who wants a chocolate that makes <u>you</u> fly?
+
+307
+00:01:10,301 --> 00:01:10,361
+Who wants a chocolate that makes you fly?
+
+308
+00:01:10,361 --> 00:01:10,741
+Who wants a chocolate that makes you <u>fly?</u>
+
+309
+00:01:10,761 --> 00:01:11,021
+<u>Let's</u> find out, shall we?
+
+310
+00:01:11,021 --> 00:01:11,041
+Let's find out, shall we?
+
+311
+00:01:11,041 --> 00:01:11,262
+Let's <u>find</u> out, shall we?
+
+312
+00:01:11,262 --> 00:01:11,322
+Let's find out, shall we?
+
+313
+00:01:11,322 --> 00:01:11,442
+Let's find <u>out,</u> shall we?
+
+314
+00:01:11,442 --> 00:01:11,462
+Let's find out, shall we?
+
+315
+00:01:11,462 --> 00:01:11,702
+Let's find out, <u>shall</u> we?
+
+316
+00:01:11,702 --> 00:01:11,722
+Let's find out, shall we?
+
+317
+00:01:11,722 --> 00:01:11,842
+Let's find out, shall <u>we?</u>
+
+318
+00:01:11,962 --> 00:01:12,282
+<u>Who's</u> for a hammer chop?
+
+319
+00:01:12,282 --> 00:01:12,322
+Who's for a hammer chop?
+
+320
+00:01:12,322 --> 00:01:12,462
+Who's <u>for</u> a hammer chop?
+
+321
+00:01:12,462 --> 00:01:12,482
+Who's for a hammer chop?
+
+322
+00:01:12,482 --> 00:01:12,522
+Who's for <u>a</u> hammer chop?
+
+323
+00:01:12,522 --> 00:01:12,542
+Who's for a hammer chop?
+
+324
+00:01:12,542 --> 00:01:12,822
+Who's for a <u>hammer</u> chop?
+
+325
+00:01:12,822 --> 00:01:12,862
+Who's for a hammer chop?
+
+326
+00:01:12,862 --> 00:01:14,483
+Who's for a hammer <u>chop?</u>
+
+327
+00:01:14,703 --> 00:01:15,023
+<u>Nothing</u> to see here.
+
+328
+00:01:15,023 --> 00:01:15,043
+Nothing to see here.
+
+329
+00:01:15,043 --> 00:01:15,143
+Nothing <u>to</u> see here.
+
+330
+00:01:15,143 --> 00:01:15,183
+Nothing to see here.
+
+331
+00:01:15,183 --> 00:01:15,563
+Nothing to <u>see</u> here.
+
+332
+00:01:15,563 --> 00:01:15,643
+Nothing to see here.
+
+333
+00:01:15,643 --> 00:01:15,884
+Nothing to see <u>here.</u>
+
+334
+00:01:16,004 --> 00:01:16,144
+<u>Just</u> a small group of people defining the laws of gravity.
+
+335
+00:01:16,144 --> 00:01:16,204
+Just a small group of people defining the laws of gravity.
+
+336
+00:01:16,204 --> 00:01:16,264
+Just <u>a</u> small group of people defining the laws of gravity.
+
+337
+00:01:16,264 --> 00:01:16,304
+Just a small group of people defining the laws of gravity.
+
+338
+00:01:16,304 --> 00:01:16,684
+Just a <u>small</u> group of people defining the laws of gravity.
+
+339
+00:01:16,684 --> 00:01:16,764
+Just a small group of people defining the laws of gravity.
+
+340
+00:01:16,764 --> 00:01:16,924
+Just a small <u>group</u> of people defining the laws of gravity.
+
+341
+00:01:16,924 --> 00:01:16,984
+Just a small group of people defining the laws of gravity.
+
+342
+00:01:16,984 --> 00:01:17,064
+Just a small group <u>of</u> people defining the laws of gravity.
+
+343
+00:01:17,064 --> 00:01:17,104
+Just a small group of people defining the laws of gravity.
+
+344
+00:01:17,104 --> 00:01:17,464
+Just a small group of <u>people</u> defining the laws of gravity.
+
+345
+00:01:17,464 --> 00:01:17,504
+Just a small group of people defining the laws of gravity.
+
+346
+00:01:17,504 --> 00:01:17,965
+Just a small group of people <u>defining</u> the laws of gravity.
+
+347
+00:01:17,965 --> 00:01:17,985
+Just a small group of people defining the laws of gravity.
+
+348
+00:01:17,985 --> 00:01:18,065
+Just a small group of people defining <u>the</u> laws of gravity.
+
+349
+00:01:18,065 --> 00:01:18,105
+Just a small group of people defining the laws of gravity.
+
+350
+00:01:18,105 --> 00:01:18,365
+Just a small group of people defining the <u>laws</u> of gravity.
+
+351
+00:01:18,365 --> 00:01:18,405
+Just a small group of people defining the laws of gravity.
+
+352
+00:01:18,405 --> 00:01:18,465
+Just a small group of people defining the laws <u>of</u> gravity.
+
+353
+00:01:18,465 --> 00:01:18,505
+Just a small group of people defining the laws of gravity.
+
+354
+00:01:18,505 --> 00:01:18,925
+Just a small group of people defining the laws of <u>gravity.</u>
+
+355
+00:01:21,584 --> 00:01:22,104
+<u>Ladies</u> and gentlemen of the Gallery Gourmet!
+
+356
+00:01:22,104 --> 00:01:22,184
+Ladies and gentlemen of the Gallery Gourmet!
+
+357
+00:01:22,184 --> 00:01:22,304
+Ladies <u>and</u> gentlemen of the Gallery Gourmet!
+
+358
+00:01:22,304 --> 00:01:22,384
+Ladies and gentlemen of the Gallery Gourmet!
+
+359
+00:01:22,384 --> 00:01:22,824
+Ladies and <u>gentlemen</u> of the Gallery Gourmet!
+
+360
+00:01:22,824 --> 00:01:22,924
+Ladies and gentlemen of the Gallery Gourmet!
+
+361
+00:01:22,924 --> 00:01:23,084
+Ladies and gentlemen <u>of</u> the Gallery Gourmet!
+
+362
+00:01:23,084 --> 00:01:23,104
+Ladies and gentlemen of the Gallery Gourmet!
+
+363
+00:01:23,104 --> 00:01:23,204
+Ladies and gentlemen of <u>the</u> Gallery Gourmet!
+
+364
+00:01:23,204 --> 00:01:23,244
+Ladies and gentlemen of the Gallery Gourmet!
+
+365
+00:01:23,244 --> 00:01:23,785
+Ladies and gentlemen of the <u>Gallery</u> Gourmet!
+
+366
+00:01:23,785 --> 00:01:23,825
+Ladies and gentlemen of the Gallery Gourmet!
+
+367
+00:01:23,825 --> 00:01:24,565
+Ladies and gentlemen of the Gallery <u>Gourmet!</u>
+
+368
+00:01:25,445 --> 00:01:25,665
+<u>My</u> name is Willy Wonka.
+
+369
+00:01:25,665 --> 00:01:25,725
+My name is Willy Wonka.
+
+370
+00:01:25,725 --> 00:01:26,085
+My <u>name</u> is Willy Wonka.
+
+371
+00:01:26,085 --> 00:01:26,225
+My name is Willy Wonka.
+
+372
+00:01:26,225 --> 00:01:26,305
+My name <u>is</u> Willy Wonka.
+
+373
+00:01:26,305 --> 00:01:26,405
+My name is Willy Wonka.
+
+374
+00:01:26,405 --> 00:01:26,665
+My name is <u>Willy</u> Wonka.
+
+375
+00:01:26,665 --> 00:01:26,685
+My name is Willy Wonka.
+
+376
+00:01:26,685 --> 00:01:27,826
+My name is Willy <u>Wonka.</u>
+
+377
+00:01:27,866 --> 00:01:28,066
+<u>He's</u> good.
+
+378
+00:01:28,066 --> 00:01:28,146
+He's good.
+
+379
+00:01:28,146 --> 00:01:28,406
+He's <u>good.</u>
+
+380
+00:01:28,766 --> 00:01:29,186
+<u>Too</u> good.
+
+381
+00:01:29,186 --> 00:01:29,306
+Too good.
+
+382
+00:01:29,306 --> 00:01:31,607
+Too <u>good.</u>
+
+383
+00:01:32,147 --> 00:01:32,387
+<u>Pretty</u> sure I've gained about 150 pounds in the last two weeks.
+
+384
+00:01:32,387 --> 00:01:32,427
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+385
+00:01:32,427 --> 00:01:32,587
+Pretty <u>sure</u> I've gained about 150 pounds in the last two weeks.
+
+386
+00:01:32,587 --> 00:01:32,607
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+387
+00:01:32,607 --> 00:01:32,687
+Pretty sure <u>I've</u> gained about 150 pounds in the last two weeks.
+
+388
+00:01:32,687 --> 00:01:32,727
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+389
+00:01:32,727 --> 00:01:32,887
+Pretty sure I've <u>gained</u> about 150 pounds in the last two weeks.
+
+390
+00:01:32,887 --> 00:01:32,907
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+391
+00:01:32,907 --> 00:01:33,307
+Pretty sure I've gained <u>about</u> 150 pounds in the last two weeks.
+
+392
+00:01:33,307 --> 00:01:33,607
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+393
+00:01:33,607 --> 00:01:33,827
+Pretty sure I've gained about 150 <u>pounds</u> in the last two weeks.
+
+394
+00:01:33,827 --> 00:01:33,867
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+395
+00:01:33,867 --> 00:01:33,927
+Pretty sure I've gained about 150 pounds <u>in</u> the last two weeks.
+
+396
+00:01:33,927 --> 00:01:33,947
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+397
+00:01:33,947 --> 00:01:34,007
+Pretty sure I've gained about 150 pounds in <u>the</u> last two weeks.
+
+398
+00:01:34,007 --> 00:01:34,027
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+399
+00:01:34,027 --> 00:01:34,187
+Pretty sure I've gained about 150 pounds in the <u>last</u> two weeks.
+
+400
+00:01:34,187 --> 00:01:34,227
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+401
+00:01:34,227 --> 00:01:34,327
+Pretty sure I've gained about 150 pounds in the last <u>two</u> weeks.
+
+402
+00:01:34,327 --> 00:01:34,347
+Pretty sure I've gained about 150 pounds in the last two weeks.
+
+403
+00:01:34,347 --> 00:01:34,528
+Pretty sure I've gained about 150 pounds in the last two <u>weeks.</u>
+
+404
+00:01:35,668 --> 00:01:35,768
+<u>You</u> could change her life, Mr. Wonka.
+
+405
+00:01:35,768 --> 00:01:35,788
+You could change her life, Mr. Wonka.
+
+406
+00:01:35,788 --> 00:01:35,928
+You <u>could</u> change her life, Mr. Wonka.
+
+407
+00:01:35,928 --> 00:01:35,968
+You could change her life, Mr. Wonka.
+
+408
+00:01:35,968 --> 00:01:36,268
+You could <u>change</u> her life, Mr. Wonka.
+
+409
+00:01:36,268 --> 00:01:36,328
+You could change her life, Mr. Wonka.
+
+410
+00:01:36,328 --> 00:01:36,508
+You could change <u>her</u> life, Mr. Wonka.
+
+411
+00:01:36,508 --> 00:01:36,648
+You could change her life, Mr. Wonka.
+
+412
+00:01:36,648 --> 00:01:36,988
+You could change her <u>life,</u> Mr. Wonka.
+
+413
+00:01:36,988 --> 00:01:37,028
+You could change her life, Mr. Wonka.
+
+414
+00:01:37,028 --> 00:01:37,168
+You could change her life, <u>Mr.</u> Wonka.
+
+415
+00:01:37,168 --> 00:01:37,208
+You could change her life, Mr. Wonka.
+
+416
+00:01:37,208 --> 00:01:37,668
+You could change her life, Mr. <u>Wonka.</u>
+
+417
+00:01:38,289 --> 00:01:38,729
+<u>Change</u> all their lives.
+
+418
+00:01:38,729 --> 00:01:39,069
+Change all their lives.
+
+419
+00:01:39,069 --> 00:01:39,209
+Change <u>all</u> their lives.
+
+420
+00:01:39,209 --> 00:01:39,289
+Change all their lives.
+
+421
+00:01:39,289 --> 00:01:39,549
+Change all <u>their</u> lives.
+
+422
+00:01:39,549 --> 00:01:39,569
+Change all their lives.
+
+423
+00:01:39,569 --> 00:01:40,049
+Change all their <u>lives.</u>
+
+424
+00:01:41,469 --> 00:01:41,930
+<u>Run</u> away!
+
+425
+00:01:41,930 --> 00:01:41,990
+Run away!
+
+426
+00:01:41,990 --> 00:01:42,890
+Run <u>away!</u>
+
+427
+00:01:43,750 --> 00:01:44,110
+<u>Every</u> good thing in this world started with a dream.
+
+428
+00:01:44,110 --> 00:01:44,190
+Every good thing in this world started with a dream.
+
+429
+00:01:44,190 --> 00:01:44,410
+Every <u>good</u> thing in this world started with a dream.
+
+430
+00:01:44,410 --> 00:01:44,430
+Every good thing in this world started with a dream.
+
+431
+00:01:44,430 --> 00:01:44,850
+Every good <u>thing</u> in this world started with a dream.
+
+432
+00:01:44,850 --> 00:01:44,930
+Every good thing in this world started with a dream.
+
+433
+00:01:44,930 --> 00:01:45,010
+Every good thing <u>in</u> this world started with a dream.
+
+434
+00:01:45,010 --> 00:01:45,050
+Every good thing in this world started with a dream.
+
+435
+00:01:45,050 --> 00:01:45,190
+Every good thing in <u>this</u> world started with a dream.
+
+436
+00:01:45,190 --> 00:01:45,210
+Every good thing in this world started with a dream.
+
+437
+00:01:45,210 --> 00:01:45,591
+Every good thing in this <u>world</u> started with a dream.
+
+438
+00:01:45,591 --> 00:01:45,791
+Every good thing in this world started with a dream.
+
+439
+00:01:45,791 --> 00:01:46,191
+Every good thing in this world <u>started</u> with a dream.
+
+440
+00:01:46,191 --> 00:01:46,231
+Every good thing in this world started with a dream.
+
+441
+00:01:46,231 --> 00:01:46,371
+Every good thing in this world started <u>with</u> a dream.
+
+442
+00:01:46,371 --> 00:01:46,411
+Every good thing in this world started with a dream.
+
+443
+00:01:46,411 --> 00:01:46,431
+Every good thing in this world started with <u>a</u> dream.
+
+444
+00:01:46,431 --> 00:01:46,451
+Every good thing in this world started with a dream.
+
+445
+00:01:46,451 --> 00:01:46,831
+Every good thing in this world started with a <u>dream.</u>
+
+446
+00:01:49,552 --> 00:01:49,712
+<u>So</u> you hold on to yours.
+
+447
+00:01:49,712 --> 00:01:49,752
+So you hold on to yours.
+
+448
+00:01:49,752 --> 00:01:49,912
+So <u>you</u> hold on to yours.
+
+449
+00:01:49,912 --> 00:01:49,972
+So you hold on to yours.
+
+450
+00:01:49,972 --> 00:01:50,212
+So you <u>hold</u> on to yours.
+
+451
+00:01:50,212 --> 00:01:50,292
+So you hold on to yours.
+
+452
+00:01:50,292 --> 00:01:50,412
+So you hold <u>on</u> to yours.
+
+453
+00:01:50,412 --> 00:01:50,432
+So you hold on to yours.
+
+454
+00:01:50,432 --> 00:01:50,492
+So you hold on <u>to</u> yours.
+
+455
+00:01:50,492 --> 00:01:50,552
+So you hold on to yours.
+
+456
+00:01:50,552 --> 00:01:50,832
+So you hold on to <u>yours.</u>
+
+457
+00:01:55,497 --> 00:01:55,737
+<u>Mark</u> my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+458
+00:01:55,737 --> 00:01:55,777
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+459
+00:01:55,777 --> 00:01:55,917
+Mark <u>my</u> words, this is going to be the greatest chocolate shop the world has ever seen.
+
+460
+00:01:55,917 --> 00:01:55,977
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+461
+00:01:55,977 --> 00:01:56,277
+Mark my <u>words,</u> this is going to be the greatest chocolate shop the world has ever seen.
+
+462
+00:01:56,277 --> 00:01:56,297
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+463
+00:01:56,297 --> 00:01:56,617
+Mark my words, <u>this</u> is going to be the greatest chocolate shop the world has ever seen.
+
+464
+00:01:56,617 --> 00:01:57,057
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+465
+00:01:57,057 --> 00:01:57,157
+Mark my words, this <u>is</u> going to be the greatest chocolate shop the world has ever seen.
+
+466
+00:01:57,157 --> 00:01:57,297
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+467
+00:01:57,297 --> 00:01:57,417
+Mark my words, this is <u>going</u> to be the greatest chocolate shop the world has ever seen.
+
+468
+00:01:57,417 --> 00:01:57,457
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+469
+00:01:57,457 --> 00:01:57,497
+Mark my words, this is going <u>to</u> be the greatest chocolate shop the world has ever seen.
+
+470
+00:01:57,497 --> 00:01:57,517
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+471
+00:01:57,517 --> 00:01:57,597
+Mark my words, this is going to <u>be</u> the greatest chocolate shop the world has ever seen.
+
+472
+00:01:57,597 --> 00:01:57,617
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+473
+00:01:57,617 --> 00:01:57,717
+Mark my words, this is going to be <u>the</u> greatest chocolate shop the world has ever seen.
+
+474
+00:01:57,717 --> 00:01:57,737
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+475
+00:01:57,737 --> 00:01:58,198
+Mark my words, this is going to be the <u>greatest</u> chocolate shop the world has ever seen.
+
+476
+00:01:58,198 --> 00:01:58,258
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+477
+00:01:58,258 --> 00:01:58,738
+Mark my words, this is going to be the greatest <u>chocolate</u> shop the world has ever seen.
+
+478
+00:01:58,738 --> 00:01:58,778
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+479
+00:01:58,778 --> 00:02:00,158
+Mark my words, this is going to be the greatest chocolate <u>shop</u> the world has ever seen.
+
+480
+00:02:00,158 --> 00:02:00,178
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+481
+00:02:00,178 --> 00:02:00,278
+Mark my words, this is going to be the greatest chocolate shop <u>the</u> world has ever seen.
+
+482
+00:02:00,278 --> 00:02:00,298
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+483
+00:02:00,298 --> 00:02:00,598
+Mark my words, this is going to be the greatest chocolate shop the <u>world</u> has ever seen.
+
+484
+00:02:00,598 --> 00:02:00,638
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+485
+00:02:00,638 --> 00:02:00,718
+Mark my words, this is going to be the greatest chocolate shop the world <u>has</u> ever seen.
+
+486
+00:02:00,718 --> 00:02:00,758
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+487
+00:02:00,758 --> 00:02:00,998
+Mark my words, this is going to be the greatest chocolate shop the world has <u>ever</u> seen.
+
+488
+00:02:00,998 --> 00:02:01,018
+Mark my words, this is going to be the greatest chocolate shop the world has ever seen.
+
+489
+00:02:01,018 --> 00:02:01,378
+Mark my words, this is going to be the greatest chocolate shop the world has ever <u>seen.</u>
+
+490
+00:02:05,899 --> 00:02:06,059
+<u>So</u> you're the funny little man who's been following me.
+
+491
+00:02:06,059 --> 00:02:06,079
+So you're the funny little man who's been following me.
+
+492
+00:02:06,079 --> 00:02:06,259
+So <u>you're</u> the funny little man who's been following me.
+
+493
+00:02:06,259 --> 00:02:06,279
+So you're the funny little man who's been following me.
+
+494
+00:02:06,279 --> 00:02:06,379
+So you're <u>the</u> funny little man who's been following me.
+
+495
+00:02:06,379 --> 00:02:06,559
+So you're the funny little man who's been following me.
+
+496
+00:02:06,559 --> 00:02:06,859
+So you're the <u>funny</u> little man who's been following me.
+
+497
+00:02:06,859 --> 00:02:06,899
+So you're the funny little man who's been following me.
+
+498
+00:02:06,899 --> 00:02:07,099
+So you're the funny <u>little</u> man who's been following me.
+
+499
+00:02:07,099 --> 00:02:07,139
+So you're the funny little man who's been following me.
+
+500
+00:02:07,139 --> 00:02:07,359
+So you're the funny little <u>man</u> who's been following me.
+
+501
+00:02:07,359 --> 00:02:07,379
+So you're the funny little man who's been following me.
+
+502
+00:02:07,379 --> 00:02:07,499
+So you're the funny little man <u>who's</u> been following me.
+
+503
+00:02:07,499 --> 00:02:07,519
+So you're the funny little man who's been following me.
+
+504
+00:02:07,519 --> 00:02:07,659
+So you're the funny little man who's <u>been</u> following me.
+
+505
+00:02:07,659 --> 00:02:07,759
+So you're the funny little man who's been following me.
+
+506
+00:02:07,759 --> 00:02:08,279
+So you're the funny little man who's been <u>following</u> me.
+
+507
+00:02:08,279 --> 00:02:08,319
+So you're the funny little man who's been following me.
+
+508
+00:02:08,319 --> 00:02:08,439
+So you're the funny little man who's been following <u>me.</u>
+
+509
+00:02:08,540 --> 00:02:08,580
+<u>I</u> will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+510
+00:02:08,580 --> 00:02:08,620
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+511
+00:02:08,620 --> 00:02:08,760
+I <u>will</u> have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+512
+00:02:08,760 --> 00:02:08,800
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+513
+00:02:08,800 --> 00:02:08,920
+I will <u>have</u> you know that I am a perfectly respectable size for an Oompa Loompa.
+
+514
+00:02:08,920 --> 00:02:08,960
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+515
+00:02:08,960 --> 00:02:09,060
+I will have <u>you</u> know that I am a perfectly respectable size for an Oompa Loompa.
+
+516
+00:02:09,060 --> 00:02:09,120
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+517
+00:02:09,120 --> 00:02:09,300
+I will have you <u>know</u> that I am a perfectly respectable size for an Oompa Loompa.
+
+518
+00:02:09,300 --> 00:02:09,340
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+519
+00:02:09,340 --> 00:02:09,440
+I will have you know <u>that</u> I am a perfectly respectable size for an Oompa Loompa.
+
+520
+00:02:09,440 --> 00:02:09,500
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+521
+00:02:09,500 --> 00:02:09,560
+I will have you know that <u>I</u> am a perfectly respectable size for an Oompa Loompa.
+
+522
+00:02:09,560 --> 00:02:09,600
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+523
+00:02:09,600 --> 00:02:09,660
+I will have you know that I <u>am</u> a perfectly respectable size for an Oompa Loompa.
+
+524
+00:02:09,660 --> 00:02:09,700
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+525
+00:02:09,700 --> 00:02:09,720
+I will have you know that I am <u>a</u> perfectly respectable size for an Oompa Loompa.
+
+526
+00:02:09,720 --> 00:02:09,800
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+527
+00:02:09,800 --> 00:02:10,200
+I will have you know that I am a <u>perfectly</u> respectable size for an Oompa Loompa.
+
+528
+00:02:10,200 --> 00:02:10,260
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+529
+00:02:10,260 --> 00:02:10,820
+I will have you know that I am a perfectly <u>respectable</u> size for an Oompa Loompa.
+
+530
+00:02:10,820 --> 00:02:10,880
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+531
+00:02:10,880 --> 00:02:11,240
+I will have you know that I am a perfectly respectable <u>size</u> for an Oompa Loompa.
+
+532
+00:02:11,240 --> 00:02:11,460
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+533
+00:02:11,460 --> 00:02:11,600
+I will have you know that I am a perfectly respectable size <u>for</u> an Oompa Loompa.
+
+534
+00:02:11,600 --> 00:02:11,660
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+535
+00:02:11,660 --> 00:02:11,720
+I will have you know that I am a perfectly respectable size for <u>an</u> Oompa Loompa.
+
+536
+00:02:11,720 --> 00:02:11,740
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+537
+00:02:11,740 --> 00:02:11,980
+I will have you know that I am a perfectly respectable size for an <u>Oompa</u> Loompa.
+
+538
+00:02:11,980 --> 00:02:12,020
+I will have you know that I am a perfectly respectable size for an Oompa Loompa.
+
+539
+00:02:12,020 --> 00:02:12,420
+I will have you know that I am a perfectly respectable size for an Oompa <u>Loompa.</u>
+
+540
+00:02:12,580 --> 00:02:12,640
+<u>An</u> Oompa what now?
+
+541
+00:02:12,640 --> 00:02:12,680
+An Oompa what now?
+
+542
+00:02:12,680 --> 00:02:12,900
+An <u>Oompa</u> what now?
+
+543
+00:02:12,900 --> 00:02:12,920
+An Oompa what now?
+
+544
+00:02:12,920 --> 00:02:13,060
+An Oompa <u>what</u> now?
+
+545
+00:02:13,060 --> 00:02:13,100
+An Oompa what now?
+
+546
+00:02:13,100 --> 00:02:13,320
+An Oompa what <u>now?</u>
+
+547
+00:02:13,600 --> 00:02:13,821
+<u>Allow</u> me to refresh your memory.
+
+548
+00:02:13,821 --> 00:02:13,861
+Allow me to refresh your memory.
+
+549
+00:02:13,861 --> 00:02:14,001
+Allow <u>me</u> to refresh your memory.
+
+550
+00:02:14,001 --> 00:02:14,201
+Allow me to refresh your memory.
+
+551
+00:02:14,201 --> 00:02:14,301
+Allow me <u>to</u> refresh your memory.
+
+552
+00:02:14,301 --> 00:02:14,361
+Allow me to refresh your memory.
+
+553
+00:02:14,361 --> 00:02:14,721
+Allow me to <u>refresh</u> your memory.
+
+554
+00:02:14,721 --> 00:02:14,961
+Allow me to refresh your memory.
+
+555
+00:02:14,961 --> 00:02:15,121
+Allow me to refresh <u>your</u> memory.
+
+556
+00:02:15,121 --> 00:02:15,161
+Allow me to refresh your memory.
+
+557
+00:02:15,161 --> 00:02:15,501
+Allow me to refresh your <u>memory.</u>
+
+558
+00:02:16,401 --> 00:02:16,521
+<u>Oh,</u> I don't think I want to hear that.
+
+559
+00:02:16,521 --> 00:02:16,601
+Oh, I don't think I want to hear that.
+
+560
+00:02:16,601 --> 00:02:16,661
+Oh, <u>I</u> don't think I want to hear that.
+
+561
+00:02:16,661 --> 00:02:16,681
+Oh, I don't think I want to hear that.
+
+562
+00:02:16,681 --> 00:02:16,821
+Oh, I <u>don't</u> think I want to hear that.
+
+563
+00:02:16,821 --> 00:02:16,841
+Oh, I don't think I want to hear that.
+
+564
+00:02:16,841 --> 00:02:16,941
+Oh, I don't <u>think</u> I want to hear that.
+
+565
+00:02:16,941 --> 00:02:16,961
+Oh, I don't think I want to hear that.
+
+566
+00:02:16,961 --> 00:02:17,021
+Oh, I don't think <u>I</u> want to hear that.
+
+567
+00:02:17,021 --> 00:02:17,041
+Oh, I don't think I want to hear that.
+
+568
+00:02:17,041 --> 00:02:17,121
+Oh, I don't think I <u>want</u> to hear that.
+
+569
+00:02:17,121 --> 00:02:17,161
+Oh, I don't think I want to hear that.
+
+570
+00:02:17,161 --> 00:02:17,201
+Oh, I don't think I want <u>to</u> hear that.
+
+571
+00:02:17,201 --> 00:02:17,221
+Oh, I don't think I want to hear that.
+
+572
+00:02:17,221 --> 00:02:17,361
+Oh, I don't think I want to <u>hear</u> that.
+
+573
+00:02:17,361 --> 00:02:17,381
+Oh, I don't think I want to hear that.
+
+574
+00:02:17,381 --> 00:02:17,581
+Oh, I don't think I want to hear <u>that.</u>
+
+575
+00:02:17,701 --> 00:02:17,821
+<u>Too</u> late.
+
+576
+00:02:17,821 --> 00:02:17,861
+Too late.
+
+577
+00:02:17,861 --> 00:02:18,041
+Too <u>late.</u>
+
+578
+00:02:18,701 --> 00:02:18,821
+<u>I've</u> started dancing now.
+
+579
+00:02:18,821 --> 00:02:18,841
+I've started dancing now.
+
+580
+00:02:18,841 --> 00:02:19,102
+I've <u>started</u> dancing now.
+
+581
+00:02:19,102 --> 00:02:19,122
+I've started dancing now.
+
+582
+00:02:19,122 --> 00:02:19,402
+I've started <u>dancing</u> now.
+
+583
+00:02:19,402 --> 00:02:19,442
+I've started dancing now.
+
+584
+00:02:19,442 --> 00:02:19,622
+I've started dancing <u>now.</u>
+
+585
+00:02:20,222 --> 00:02:20,322
+<u>Once</u> we've started, we can't stop.
+
+586
+00:02:20,322 --> 00:02:20,362
+Once we've started, we can't stop.
+
+587
+00:02:20,362 --> 00:02:20,482
+Once <u>we've</u> started, we can't stop.
+
+588
+00:02:20,482 --> 00:02:20,502
+Once we've started, we can't stop.
+
+589
+00:02:20,502 --> 00:02:20,782
+Once we've <u>started,</u> we can't stop.
+
+590
+00:02:20,782 --> 00:02:20,802
+Once we've started, we can't stop.
+
+591
+00:02:20,802 --> 00:02:20,882
+Once we've started, <u>we</u> can't stop.
+
+592
+00:02:20,882 --> 00:02:20,902
+Once we've started, we can't stop.
+
+593
+00:02:20,902 --> 00:02:21,102
+Once we've started, we <u>can't</u> stop.
+
+594
+00:02:21,102 --> 00:02:21,142
+Once we've started, we can't stop.
+
+595
+00:02:21,142 --> 00:02:21,342
+Once we've started, we can't <u>stop.</u>
+
