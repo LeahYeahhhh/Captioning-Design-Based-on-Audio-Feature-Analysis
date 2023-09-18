@@ -1,2 +1,6 @@
-# Thesis
-Captioning Design Based on Audio Feature Analysis
+# Captioning Design Based on Audio Feature Analysis
+Subtitles have always played a crucial role in conveying information to the audience, particularly to Deaf and Hard of Hearing (DHH) individuals and re-listeners. In today's context, subtitles have also become an essential aid for both general audiences and creators in conveying context and emotions. However, traditional subtitles often lack non-verbal elements like tone and emotions. This study explores enhancing the expressiveness of subtitles through audio feature extraction and dynamic visualization. It primarily utilizes automatic speech recognition, audio analysis, and audio feature visualization for subtitles. The implementation combines WhisperX transcription, Praat analysis, and JavaScript subtitle rendering.
+
+Audio volume detection is performed using root mean square energy, while pitch categorization relies on fundamental frequency distribution statistical tests. The results reveal detectable patterns related to emphasis and emotion. Programmatically generated dynamic subtitle designs are produced based on audio cues, including size, color, and animation. The flexible system architecture allows for customized styles for accessibility or creative purposes.
+
+Evaluation results demonstrate a significant improvement in the perception of auxiliary language cues when enhanced subtitles are used, with participants reporting substantial benefits. However, the project has limitations concerning throughput and audio feature coverage. Additionally, there are opportunities for refining the interactive design and accessibility considerations.
